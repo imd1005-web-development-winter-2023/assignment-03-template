@@ -12,20 +12,23 @@
 
 ## Introduction
 
-For assignment 02 you are going to build one (1) web page using your own HTML and CSS (no templates or frameworks) that satisfies all content and submission requirements for this assignment.
+Todo lists are like a "right of passage" in webdev tutorials. A simple Todo list app can be written in a couple dozen lines of code. There is, however, a huge opportunity for innovation, enhancements and features that can take this project from a learning opportunity to a showcase you put on a portfolio.
 
-All of your work must be submitted to your assignment 02 GitHub repository, and must be hosted through GitHub pages.
+Your Assignment 03 involves building and shipping an awesome and innovative Todo list app, as well as doing a basic code review on a team member's submission.
+
+All of your work must be submitted to your assignment 03 GitHub repository, and must be hosted through GitHub pages.
 
 ## Details
 
-- [Description](https://github.com/imd1005-web-development-winter-2023/assignment-02#description)
-- [Content requirements](https://github.com/imd1005-web-development-winter-2023/assignment-02#content-requirements)
-- [Grading rubric](https://github.com/imd1005-web-development-winter-2023/assignment-02#grading-rubric)
-- [Late submission policy](https://github.com/imd1005-web-development-winter-2023/assignment-02#late-submissions)
-- [FAQ](https://github.com/imd1005-web-development-winter-2023/assignment-02#frequently-asked-questions-faq)
-- [Content sample](https://github.com/imd1005-web-development-winter-2023/assignment-02#content-requirements-sample)
+- [Description](https://github.com/imd1005-web-development-winter-2023/assignment-03#description)
+- [Instructions for the app](https://github.com/imd1005-web-development-winter-2023/assignment-03#instructions-for-the-app)
+- [Instructions for the code review](https://github.com/imd1005-web-development-winter-2023/assignment-03#instructions-for-the-code-review)
+- [Grading rubric](https://github.com/imd1005-web-development-winter-2023/assignment-03#grading-rubric)
+- [Late submission](https://github.com/imd1005-web-development-winter-2023/assignment-03#late-submissions)
+- [Inspiration](https://github.com/imd1005-web-development-winter-2023/assignment-03#screenshots-for-inspiration)
+- [FAQ](https://github.com/imd1005-web-development-winter-2023/assignment-03#frequently-asked-questions-faq)
 
-The full assignment 02 details are available here: [Assignment 02](https://github.com/imd1005-web-development-winter-2023/assignment-02)
+The full assignment 03 details are available here: [Assignment 03](https://github.com/imd1005-web-development-winter-2023/assignment-03)
 
 ## Checklist
 
