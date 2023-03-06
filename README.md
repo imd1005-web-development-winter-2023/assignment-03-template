@@ -39,8 +39,8 @@ To help with your submission, make sure that you have reviewed the following ite
 - [x] The web app passes [W3C HTML validation](https://validator.w3.org/#validate_by_uri)
 - [x] The web app passes [W3C CSS validation](https://jigsaw.w3.org/css-validator/#validate_by_uri)
 - [x] A css reset file is used to standardize browser defaults
-- [x] You have conducted a code review on one of your team members assignment 03 code
-- [x] One of your team members have conducted a code review on your assignment 03
+- [x] You have conducted a code review on one of your team members assignment 03 code and provided the results in a GitHub Issue
+- [x] One of your team members have conducted a code review on your assignment 03 and have documented the results in a GitHub Issue
 
 ## Submitting your work
 
